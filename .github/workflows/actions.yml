@@ -142,13 +142,14 @@ jobs:
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
-	blog_posts:
+  blog_posts:
     runs-on: ubuntu-latest
     steps:
-			- uses: lowlighter/metrics@latest
-				with:
-					filename: blog_posts.svg
-					base: ""
-					plugin_rss: yes
-					plugin_rss_source: https://www.keyvanfatehi.com/atom.xml
-					plugin_rss_limit: 4
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: blog_posts.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://www.keyvanfatehi.com/atom.xml
+          plugin_rss_limit: 4
