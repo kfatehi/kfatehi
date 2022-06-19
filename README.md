@@ -23,6 +23,6 @@
 <a href="https://github.com/kfatehi">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-<a href="https://github.com/kfatehi">
+<a href="https://keyvanfatehi.com">
     <img align="center" width="49%" src="./blog_posts.svg" />
 </a>
