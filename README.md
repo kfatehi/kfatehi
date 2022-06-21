@@ -25,6 +25,6 @@
     <img align="center" width="49%" src="./blog_posts.svg" />
 </a>
 
-<a href="https://github.com/kfatehi">
+<a href="https://github.com/kfatehi" style="float:left">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
