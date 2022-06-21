@@ -1,22 +1,22 @@
 <table>
   <tr>
-    <td><img src="./header.svg" /></td>
+    <td><a href="#"><img src="./header.svg" /></a></td>
     <td><a href="https://keyvanfatehi.com"><img src="./blog_posts.svg" /></a></td>
   </tr>
   <tr>
-    <td rowspan=5 valign="top"><img src="./achievements.svg" /></td>
+    <td><a href="#"><img src="./achievements.svg" /></a></td>
   </tr>
   <tr>
-    <td><img src="./acti_comm.svg" /></td>
+    <td><a href="#"><img src="./acti_comm.svg" /></a></td>
   </tr>
   <tr>
-    <td><img src="./issue_pr_lang.svg" /></td>
+    <td><a href="#"><img src="./issue_pr_lang.svg" /></a></td>
   </tr>
   <tr>
-    <td><img src="./iso_calender.svg" /></td>
+    <td><a href="#"><img src="./iso_calender.svg" /></a></td>
   </tr>
   <tr>
-    <td><img src="./github-habits.svg" /></td>
+    <td><a href="#"><img src="./github-habits.svg" /></a></td>
   </tr>
 </table>
 
