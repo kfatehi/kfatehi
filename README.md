@@ -1,7 +1,7 @@
 <table>
   <tr>
-      <td><img src="./header.svg" /></td>
-      <td><img src="./blog_posts.svg" /></td>
+    <td><img src="./header.svg" /></td>
+    <td><a href="https://keyvanfatehi.com"><img src="./blog_posts.svg" /></a></td>
   </tr>
   <tr>
     <td rowspan=5 valign="top"><img src="./achievements.svg" /></td>
